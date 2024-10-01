@@ -1,4 +1,3 @@
-//autor:elif cansu yilmaz, Jomana Hossam
 //Sensoren:Feuchtigkeitssensor,Temperatursensor, 9DOF
 #include "ICM20600.h"
 #include <Wire.h>
