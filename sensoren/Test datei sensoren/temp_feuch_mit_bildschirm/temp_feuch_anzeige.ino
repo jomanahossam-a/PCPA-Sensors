@@ -1,4 +1,3 @@
-//autor:elif cansu yilmaz
 //Sensoren:Feuchtigkeitssensor,Temperatursensor
 
 //Werte für Temperatur
